@@ -42,7 +42,7 @@ To set up the Reddit Lead Manager application locally, follow these steps:
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/marc-shade/Reddit-Lead-Manager.git
-    cd LeadMasterPro
+    cd Reddit-Lead-Manager
     ```
 
 2. **Create and activate a virtual environment**:
@@ -80,5 +80,5 @@ To set up the Reddit Lead Manager application locally, follow these steps:
 
 ## Configuration
 
-LeadMasterPro includes a `pyproject.toml` file to configure package requirements and dependencies. Update this file as needed if adding or upgrading dependencies.
+Reddit Lead Manager includes a `pyproject.toml` file to configure package requirements and dependencies. Update this file as needed if adding or upgrading dependencies.
 
