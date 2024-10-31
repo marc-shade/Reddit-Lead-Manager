@@ -19,6 +19,12 @@
 - **Interactive Interface**: Built with Streamlit, allowing for real-time filtering, bulk updates, and note-taking.
 - **Export Options**: Export analytics summaries, status reports, and detailed lead data in CSV and JSON formats.
 
+![Screenshot 2024-10-31 at 6 27 03 AM (4)](https://github.com/user-attachments/assets/f549d762-27a4-4170-8875-00fba69099f5)
+
+![Screenshot 2024-10-31 at 6 27 14 AM (4)](https://github.com/user-attachments/assets/d3f14df9-e5d7-4b35-9dbb-9d990397fc95)
+
+![Screenshot 2024-10-31 at 6 27 40 AM (4)](https://github.com/user-attachments/assets/3467fd3e-caba-440d-9a40-fb9487c61a1a)
+
 ## Project Structure
 
 - **`analytics.py`**: Defines `AnalyticsManager`, which performs data analysis on leads, generating insights like status distribution and conversion rates.
