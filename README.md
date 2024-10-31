@@ -41,7 +41,7 @@ To set up the Reddit Lead Manager application locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/marc-shade/LeadMasterPro.git
+    git clone https://github.com/marc-shade/Reddit-Lead-Manager.git
     cd LeadMasterPro
     ```
 
