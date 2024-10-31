@@ -1,6 +1,6 @@
 # Reddit Lead Manager
 
-This is an interactive lead management and analytics tool for tracking and analyzing leads collected from various online sources, such as Reddit. Built with Python and Streamlit, LeadMasterPro provides data visualization, filtering, and export capabilities, making it ideal for sales and marketing teams who wish to better understand their lead funnel and activity.
+<img src="https://github.com/user-attachments/assets/a496b05a-386f-4a07-a3a6-00f0dc9a2908" style="300px;" align="right" />This is an interactive lead management and analytics tool for tracking and analyzing leads collected from various online sources, such as Reddit. Built with Python and Streamlit, LeadMasterPro provides data visualization, filtering, and export capabilities, making it ideal for sales and marketing teams who wish to better understand their lead funnel and activity.
 
 ## Table of Contents
 - [Features](#features)
